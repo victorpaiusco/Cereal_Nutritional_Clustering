@@ -3,6 +3,10 @@ Cereal Clustering
 Victor Paiusco
 2026-06-06
 
+![Poster](Poster.png)
+
+[Full-resolution PDF](Poster.pdf)
+
 The next bit of code cleans up the data. It removes any rows with
 missing nutrient, weight, or shelf values. We exclude vitamins as in
 this dataset, they are described as discrete groups rather than a
